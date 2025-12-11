@@ -1,1 +1,1 @@
-Se ha completado la sincronización con el repositorio remoto
+Se ha completado la sincronización con el repositorio remoto, y ahora necesito explicarlo como lo llevaría de nuevo al remoto local.
