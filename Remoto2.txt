@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hay que modificar los cambios en remoto
+=======
+Hemos rectificado sobre el cambio
+>>>>>>> 14cabf34b21615647c0adcfefec2f971edaf223b
